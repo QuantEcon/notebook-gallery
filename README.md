@@ -79,7 +79,7 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Matlab
   - *Published:* 2022 Nov 02
   - *Summary:* A gentle Intro to macroeconometrics with VARs.
-16. [Historical_analysis_of_the_Forex_market_%28USD_INR%29_using_Python](ipynb/nan-historical_analysis_of_the_forex_market_(usd_inr)_using_python.ipynb)
+16. [Historical_analysis_of_the_Forex_market_(USD_INR)_using_Python](ipynb/nan-historical_analysis_of_the_forex_market_(usd_inr)_using_python.ipynb)
   - *Author:* nan
   - *Programming Language:* Python
   - *Published:* 2022 Oct 12
@@ -104,12 +104,12 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Julia
   - *Published:* 2022 Apr 07
   - *Summary:* This notebook studies a model that represents Coase's famous theory of the firm and implements numerical experiments in Julia.
-21. [Replication of Rust %281987%29 using Google's JAX](ipynb/natasha-rust-jax.ipynb)
+21. [Replication of Rust (1987) using Google's JAX](ipynb/natasha-rust-jax.ipynb)
   - *Author:* Natasha
   - *Programming Language:* Python
   - *Published:* 2022 Mar 22
   - *Summary:* How much faster can I solve Rust (1987) using JAX instead of Numba? Click here to see.
-22. [Replication of Rust %281987%29](ipynb/natasha-rust.ipynb)
+22. [Replication of Rust (1987)](ipynb/natasha-rust.ipynb)
   - *Author:* Natasha
   - *Programming Language:* Python
   - *Published:* 2022 Mar 18
@@ -154,7 +154,7 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Python
   - *Published:* 2020 Sep 22
   - *Summary:* Examples on the use of Chebyshev polynomials for function approximation in Python.
-31. [Solving the Model of Aiyagari %281994%29 with Aggregate Uncertainty](ipynb/julien_pascal-aiyagaribkm_quantecon.ipynb)
+31. [Solving the Model of Aiyagari (1994) with Aggregate Uncertainty](ipynb/julien_pascal-aiyagaribkm_quantecon.ipynb)
   - *Author:* Julien Pascal
   - *Programming Language:* Julia
   - *Published:* 2020 Sep 14
@@ -249,37 +249,37 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 20
   - *Summary:* This notebook replicates a simplified model from The role of investment-specific technological change in the business cycle (Greenwood, Hercowitz, and Krusell 1998)
-50. [Applied Computational Economics and Finance--Note %28part 3%29](ipynb/barry_ke-applied_computational_economics_and_finance--part_3.ipynb)
+50. [Applied Computational Economics and Finance--Note (part 3)](ipynb/barry_ke-applied_computational_economics_and_finance--part_3.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 20
   - *Summary:* This notebook contains notes and matlab implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler
-51. [Applied Computational Economics and Finance--Note %28part 2%29](ipynb/barry_ke-applied_computational_economics_and_finance_part_2.ipynb)
+51. [Applied Computational Economics and Finance--Note (part 2)](ipynb/barry_ke-applied_computational_economics_and_finance_part_2.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 20
   - *Summary:* This notebook contains notes and matlab implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler.
-52. [Applied Computational Economics and Finance--Note %28part 1%29](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
+52. [Applied Computational Economics and Finance--Note (part 1)](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 20
   - *Summary:* This notebook contains notes and matlab implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler.
-53. [Applied Computational Economics and Finance--Note %28part 3%29](ipynb/barry_ke-applied_computational_economics_and_finance--part_3.ipynb)
+53. [Applied Computational Economics and Finance--Note (part 3)](ipynb/barry_ke-applied_computational_economics_and_finance--part_3.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 15
   - *Summary:* This notebook contains notes and python implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler.
-54. [Applied Computational Economics and Finance--Note %28part 2%29](ipynb/barry_ke-applied_computational_economics_and_finance_part_2.ipynb)
+54. [Applied Computational Economics and Finance--Note (part 2)](ipynb/barry_ke-applied_computational_economics_and_finance_part_2.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 03
   - *Summary:* This notebook contains notes and python implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler. 
-55. [Applied Computational Economics and Finance--Note %28part 1%29](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
+55. [Applied Computational Economics and Finance--Note (part 1)](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 03
   - *Summary:* This notebook contains notes and python implementation of some coding examples in "Applied Computational Economics and Finance" by Mario J. Miranda and Paul L. Fackler. 
-56. [Applied Computational Economics and Finance--Notes %28part 1%29](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
+56. [Applied Computational Economics and Finance--Notes (part 1)](ipynb/barry_ke-applied_computational_economics_and_finance.ipynb)
   - *Author:* Barry Ke
   - *Programming Language:* Matlab
   - *Published:* 2019 Jul 03
@@ -459,17 +459,17 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Python
   - *Published:* 2018 Aug 01
   - *Summary:* Hello World
-92. [7 Solution Methods for Neoclassical Growth Model %28Matlab%29](ipynb/chase_coleman-growthmodelsolutionsmethods_matlab.ipynb)
+92. [7 Solution Methods for Neoclassical Growth Model (Matlab)](ipynb/chase_coleman-growthmodelsolutionsmethods_matlab.ipynb)
   - *Author:* Chase Coleman
   - *Programming Language:* Other
   - *Published:* 2018 Jul 30
   - *Summary:* This file is part of a computational appendix that accompanies the paper.  > MATLAB, Python, Julia: What to Choose in Economics?  Coleman, Lyon, Maliar, and Maliar (2017)  
-93. [7 Solution Methods for Neoclassical Growth Model %28Julia%29](ipynb/chase_coleman-growthmodelsolutionmethods_jl.ipynb)
+93. [7 Solution Methods for Neoclassical Growth Model (Julia)](ipynb/chase_coleman-growthmodelsolutionmethods_jl.ipynb)
   - *Author:* Chase Coleman
   - *Programming Language:* Julia
   - *Published:* 2018 Jul 30
   - *Summary:* This file is part of a computational appendix that accompanies the paper.  > MATLAB, Python, Julia: What to Choose in Economics?  Coleman, Lyon, Maliar, and Maliar (2017)
-94. [7 Solution Methods for Neoclassical Growth Model %28Python%29](ipynb/chase_coleman-growthmodelsolutionmethods_py.ipynb)
+94. [7 Solution Methods for Neoclassical Growth Model (Python)](ipynb/chase_coleman-growthmodelsolutionmethods_py.ipynb)
   - *Author:* Chase Coleman
   - *Programming Language:* Python
   - *Published:* 2018 Jul 30
@@ -549,12 +549,12 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Python
   - *Published:* 2018 Jul 06
   - *Summary:* This notebook provides an example of how to solve and simulating a simple DSGE model using value-function iteration on a full cartesian grid.  The code in this notebook uses Python 3.6.
-110. [Simulated Method of Moments %28SMM%29 Estimation](ipynb/richard_w_evans-smmest.ipynb)
+110. [Simulated Method of Moments (SMM) Estimation](ipynb/richard_w_evans-smmest.ipynb)
   - *Author:* Richard W Evans
   - *Programming Language:* Python
   - *Published:* 2018 Jul 05
   - *Summary:* This notebook provides a characterization of the simulated method of moments (SMM) approach to parameter estimation in the general setting of a nonlinear functions and non-Gaussian errors. Code uses Python 3.6.
-111. [Generalized Method of Moments %28GMM%29 Estimation](ipynb/richard_w_evans-gmmest.ipynb)
+111. [Generalized Method of Moments (GMM) Estimation](ipynb/richard_w_evans-gmmest.ipynb)
   - *Author:* Richard W Evans
   - *Programming Language:* Python
   - *Published:* 2018 Jul 03
@@ -574,7 +574,7 @@ QuantEcon Notebook Gallery - sharing notebooks on computational economics
   - *Programming Language:* Python
   - *Published:* 2018 Jul 03
   - *Summary:* This notebook provides a characterization of maximum likelihood approach to parameter estimation in the general setting of a nonlinear functions and non-Gaussian errors. We use Python 3.6 to explore the theory and computation behind MLE.
-115. [A Critical Analysis of Engel and Rogers %281996%29 Using Python Visualizations](ipynb/quentin_batista-a_critical_analysis_of_engel_and_rogers_(1996)_using_python_visualizations.ipynb)
+115. [A Critical Analysis of Engel and Rogers (1996) Using Python Visualizations](ipynb/quentin_batista-a_critical_analysis_of_engel_and_rogers_(1996)_using_python_visualizations.ipynb)
   - *Author:* Quentin Batista
   - *Programming Language:* Python
   - *Published:* 2018 Jul 02
